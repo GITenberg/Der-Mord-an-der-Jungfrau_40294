@@ -1,0 +1,42 @@
+_repo: Der-Mord-an-der-Jungfrau_40294
+_version: 0.1.0
+alternative_title: La vierge assassinée. German
+contributor:
+  translator:
+    agent_name: Lautensack, Heinrich
+    birthdate: 1881
+    deathdate: 1919
+    gutenberg_agent_id: '40534'
+    url: http://www.gutenberg.org/2009/agents/40534
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Barrès, Maurice
+    aliases:
+    - Barrès, M. (Maurice)
+    - Barres, Maurice
+    birthdate: 1862
+    deathdate: 1923
+    gutenberg_agent_id: '6948'
+    url: http://www.gutenberg.org/2009/agents/6948
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Maurice_Barrès
+    - http://en.wikipedia.org/wiki/Maurice_Barrès
+description: ''
+gutenberg_bookshelf: DE Lyrik
+gutenberg_issued: '2012-07-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40294'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French fiction -- Translations into German'
+- !lcsh 'Short stories'
+- !lcc 'PQ'
+title: Der Mord an der Jungfrau
+url: http://www.gutenberg.org/ebooks/40294
